@@ -1,5 +1,5 @@
-﻿69,69(体位)
-39,ミクの日
+﻿39,ミクの日
+69,69(体位)
 (-3-),嘟嘴
 .3.,o3o
 :(,皱眉/蹙额
@@ -383,6 +383,7 @@ animal,动物
 animal_collar,动物用项圈|宠物项圈
 animal_costume,动物系装扮
 animal_ear_fluff,耳绒毛
+animal_ear_hairband,动物耳朵发箍
 animal_ear_legwear,动物耳朵过膝袜
 animal_ears,兽耳
 animal_feet,动物脚
@@ -609,9 +610,9 @@ asahina_mikuru,朝比奈实玖瑠
 asahina_mirai,朝日奈未来
 asakura_ryouko,朝仓凉子
 asamura_hiori,浅村_hiori
-asashio_(kancolle),朝潮_(kancolle)
+asashio_(kancolle),朝潮_(舰队收藏)
 asbel_lhant,阿斯贝尔·兰特
-asbestos_(arknights),石棉_(arknights)
+asbestos_(arknights),石棉_(明日方舟)
 ascot,阿斯科特领巾
 ashford_academy_uniform,阿什福特学院制服
 ashido_mina,芦户三奈
@@ -639,6 +640,7 @@ assertive_female,自信的女性
 asseylum_vers_allusia,艾瑟依拉姆·薇瑟·艾莉欧斯亚
 asshole,菊花
 assisted_exposure,剥开衣服
+assisted_object_insertion,辅助对象插入
 assless_swimsuit,无屁股泳衣
 ass-to-ass,屁股贴屁股
 ass-up_head-down,趴着翘臀
@@ -665,10 +667,10 @@ asymmetrical_pupils,左右眼颜色不同
 asymmetrical_sleeves,不对称的袖子
 asymmetrical_wings,不对称的翅膀
 atago_(azur_lane),爱宕(碧蓝航线)
-atago_(kancolle),爱宕_(kancolle)
 atago_(school_traumerei)_(azur_lane),爱宕(学校_traumerei)(碧蓝航线)
 atago_(stunning_speedster)_(azur_lane),爱宕(令人惊叹的极速赛车)
 atago_(summer_march)_(azur_lane),爱宕(夏季进行曲)
+atago_(kancolle),爱宕_(舰队收藏)
 atalanta_(fate),阿塔兰塔(fate)
 atelier_(series),莱莎的炼金工房
 athletic_leotard,体操服
@@ -755,8 +757,8 @@ bag,包
 bag_charm,背包挂件
 bagged_fish,金鱼水袋
 baggy_pants,宽松长裤
-bagpipe_(arknights),风笛_(arknights)
-bagpipe_(queen_no._1)_(arknights),风笛_(queen_no._1)_(arknights)
+bagpipe_(arknights),风笛_(明日方舟)
+bagpipe_(queen_no._1)_(arknights),风笛_(queen_no._1)_(明日方舟)
 bags_under_eyes,眼袋
 baguette,法国面包
 baiken,梅喧
@@ -945,7 +947,7 @@ beehive_hairdo,蜂窝头
 beer,啤酒
 beer_can,听装啤酒
 beer_mug,啤酒杯
-beeswax_(arknights),蜂蜡_(arknights)
+beeswax_(arknights),蜂蜡_(明日方舟)
 behind-the-head_headphones,从后脑戴上的耳机
 beidou_(genshin_impact),北斗(原神)
 beige,浅褐
@@ -1057,7 +1059,7 @@ bishoujo_senshi_sailor_moon,美少女战士
 bishounen,美少年
 bismarck_(azur_lane),俾斯麦
 bismarck_(beacon_of_the_iron_blood)_(azur_lane),俾斯麦(铁血的灯塔)(碧蓝航线)
-bismarck_(kancolle),俾斯麦_(kancolle)
+bismarck_(kancolle),俾斯麦_(舰队收藏)
 bison_(arknights),野牛(方舟)
 bisque,橘黄
 bit_gag,勒住嘴
@@ -1227,6 +1229,7 @@ blue_gloves,蓝色手套
 blue_hair,蓝发
 blue_hairband,蓝色发带
 blue_hakama,蓝色的袴
+blue_halo,蓝色光环
 blue_headband,蓝色头巾
 blue_headwear,蓝色头饰
 blue_hoodie,蓝色连帽衫
@@ -1247,7 +1250,7 @@ blue_panties,蓝色内裤
 blue_pants,蓝色长裤
 blue_pantyhose,蓝色裤袜
 blue_poison_(arknights),蓝色毒药(方舟)
-blue_poison_(shoal_beat)_(arknights),蓝毒_(浅滩律动)_(arknights)
+blue_poison_(shoal_beat)_(arknights),蓝毒_(浅滩律动)_(明日方舟)
 blue_pupils,蓝色瞳孔
 blue_ribbon,蓝色丝带
 blue_rose,蓝玫瑰
@@ -1524,6 +1527,9 @@ brown_cape,棕色斗篷
 brown_cardigan,棕色开襟衫
 brown_coat,棕色外套
 brown_dress,棕色连衣裙
+brown_dust,棕色尘埃
+brown_dust_(series),棕色尘埃(系列)
+brown_dust_2,棕色尘埃2
 brown_eyes,棕眼
 brown_footwear,棕色鞋类
 brown_fur,棕色毛皮
@@ -1735,6 +1741,7 @@ cat_cutout,胸部开口出猫头剪影的服装
 cat_day,猫之日
 cat_ear,猫耳造型的
 cat_ear_cutout,猫耳造型镂空的
+cat_ear_hairband,猫咪耳朵发箍
 cat_ear_headphones,猫耳式耳机
 cat_ear_panties,猫耳造型内裤
 cat_ears,猫耳
@@ -1861,7 +1868,7 @@ ch'en_(ageless_afterglow)_(arknights),陈_(岁红霞)_(明日方舟)
 ch'en_(arknights),陈(明日方舟)
 chen_hai_(azur_lane),陈海(碧蓝航线)
 chen_hai_(vestibule_of_wonders)_(azur_lane),陈海(奇迹前庭)(碧蓝航线)
-ch'en_the_holungday_(arknights),ch'en_the_holungday_(arknights)
+ch'en_the_holungday_(arknights),ch'en_the_holungday_(明日方舟)
 cheongsam,旗袍
 cherino_(blue_archive),cherino(蔚蓝档案)
 cherry,樱花|樱桃
@@ -2250,6 +2257,7 @@ covering_nipples,挡住乳头
 covering_pussy,遮着裆部
 covr,封面
 cow,牛
+cow_ear_hairband,牛耳朵发箍
 cow_ears,牛耳朵
 cow_girl,牛娘
 cow_horns,牛角
@@ -2295,7 +2303,7 @@ crew_cut,平头/板寸头
 crimson,赤红
 cringe,闭一只眼
 criss-cross_halter,交叉吊带
-croissant_(arknights),羊角面包(arknights)
+croissant_(arknights),羊角面包(明日方舟)
 crooked_eyewear,歪斜的眼镜
 crop_marks,裁剪标记
 crop_top,露腹短上衣
@@ -2878,7 +2886,7 @@ elin,艾琳族
 elis_(touhou),伊利斯(东方)
 elise_(fire_emblem),伊莉丝(火焰之纹章)
 elite_four,四天王
-elite_ii_(arknights),精英_ii_(arknights)
+elite_ii_(arknights),精英_ii_(明日方舟)
 elizabeth_bathory_(fate),伊丽莎白巴托里(命运)
 elizabeth_bathory_(fate/extra_ccc),伊丽莎白巴托里(命运/额外的ccc)
 ellen_(touhou),艾伦(东方)
@@ -3031,7 +3039,7 @@ eyeshadow,眼影
 eyewear,眼睛
 eyewear_on_head,眼镜别在头上
 eyewear_removed,摘眼镜
-eyjafjalla_(arknights),艾雅法拉_(arknights)
+eyjafjalla_(arknights),艾雅法拉_(明日方舟)
 face,脸部
 face_down_ass_up,趴着翘臀
 face_focus,聚焦在面部
@@ -3146,7 +3154,7 @@ fellatio_gesture,摆着口交的手势
 female,女性
 female_child,女 童
 female_commander_(azur_lane),女指挥官(碧蓝航线)
-female_doctor_(arknights),女医生_(arknights)
+female_doctor_(arknights),女医生_(明日方舟)
 female_ejaculation,女性潮吹
 female_focus,女性焦点(画面中为女性)
 female_gunner_(dungeon_and_fighter),女炮手(地下城与战士)
@@ -3161,7 +3169,7 @@ female_pubic_hair,女性阴毛
 female_saniwa_(touken_ranbu),女審神者
 female_slayer_(dungeon_and_fighter),女杀手(地下城与斗士)
 female_solo,单人
-female_tourist_c_(arknights),女游客_c_(arknights)
+female_tourist_c_(arknights),女游客_c_(明日方舟)
 femdom,逆强奸
 femdom_rape,调教强奸(女对男)
 fence,栅栏
@@ -3507,8 +3515,8 @@ frustrated_brow,沮丧的眉头
 frying_pan,平底锅
 fubuki_(azur_lane),吹雪(碧蓝航线)
 fubuki_(blue_archive),吹雪(蔚蓝档案)
-fubuki_(kancolle),吹雪_(kancolle)
 fubuki_(one-punch_man),地狱吹雪
+fubuki_(kancolle),吹雪_(舰队收藏)
 fuchsia,紫红
 fuck,性爱
 fucked_silly,被肏到恍惚|被干得不要不要
@@ -3832,6 +3840,7 @@ green_gloves,绿色的手套
 green_hair,绿发
 green_hairband,绿色发带
 green_hakama,绿色的袴
+green_halo,绿色光环
 green_headwear,绿色头饰
 green_jacket,绿色夹克
 green_kimono,绿色和服
@@ -3876,6 +3885,7 @@ grey_eyes,灰色的眼睛
 grey_footwear,灰色鞋类
 grey_gloves,灰色手套
 grey_hair,灰发
+grey_halo,灰色光环
 grey_headwear,灰色头饰
 grey_hoodie,灰色连帽衫
 grey_jacket,灰色夹克
@@ -4089,12 +4099,13 @@ halloween,万圣节
 halloween_costume,万圣节装扮
 hallway,大厅
 halo,头顶光环
+halo ,光环
 halter,绕颈系带
 halter_dress,绕颈裙|衬衣式连衣裙|露背吊带裙
 halter_top,吊带式的上身的服饰
 halterneck,绕颈系带
 haltertop,绕颈系带
-hamakaze_(kancolle),滨风(kancolle)
+hamakaze_(kancolle),滨风(舰队收藏)
 hamaya,破魔矢
 hammann_(azur_lane),哈曼(碧蓝航线)
 hammann_(rebellious_summer)_(azur_lane),哈曼(叛逆的夏天)(碧蓝航线)
@@ -4271,7 +4282,7 @@ harp,竖琴
 harpy,有翼人|半人半鸟|鸟人族
 haruka_(blue_archive),haruka(蔚蓝档案)
 haruna_(blue_archive),榛名(蔚蓝档案)
-haruna_(kancolle),榛名_(kancolle)
+haruna_(kancolle),榛名_(舰队收藏)
 haruno_haruka,春野はるか
 haruno_sakura,春野サクラ
 haruyama_kazunori,春山和典
@@ -4408,7 +4419,7 @@ hexagram,六角星
 hibari_(senran_kagura),云雀(闪乱神乐)
 hibike!_euphonium,吹响！上低音号
 hibiki_(blue_archive),猫塚响(蔚蓝档案)
-hibiki_(kancolle),响(kancolle)
+hibiki_(kancolle),响(舰队收藏)
 hibiscus,扶桑花
 hibiscus_(arknights),芙蓉(明日方舟)
 hidaka_ai,日高爱
@@ -4472,6 +4483,7 @@ hip_bones,髋骨
 hip_focus,臀部为焦点
 hip_vent,服装露出髋部侧面
 hipbone,髋骨
+hiphighs,高腰裤
 hips,臀部
 hiradaira_chisaki,比良平ちさき
 hirasawa_ui,平沢憂
@@ -4609,6 +4621,7 @@ honeycomb_(pattern),蜂窝风格图案
 honeycomb_background,蜂窝风格背景
 honeydew,甘露
 hong_meiling,红美铃
+honkai:_star_rail,崩坏:星穹铁道
 honkai_(series),崩坏(系列)
 honkai_impact_3rd,崩坏三
 honma_meiko,本間芽衣子
@@ -4754,7 +4767,7 @@ id_card,学生证|身份证
 identity_censor,眼部打码
 idol,偶像
 idolmaster,偶像大师
-idolmaster_(classic),偶像大师(经典)
+idolmaster_(classic),偶像大师(本家)
 idolmaster_cinderella_girls,偶像大师灰姑娘女孩
 idolmaster_million_live!,偶像大师百万现场！
 idolmaster_shiny_colors,偶像大师闪亮颜色
@@ -4820,7 +4833,7 @@ in_winter,冬
 inaba_mob_(touhou),稻叶暴徒(东方)
 inaba_tewi,因幡てゐ
 inami_mahiru,伊波まひる
-inazuma_(kancolle),电_(kancolle)
+inazuma_(kancolle),电_(舰队收藏)
 inazuma_eleven_(series),闪电十一人(系列)
 incest,乱伦
 incoming_food,递食物
@@ -4841,7 +4854,7 @@ indomitable_(ms._motivationless_maid)_(azur_lane),不屈不挠(无动机的女�
 indoor_shoes_(japanese),女式学生鞋
 indoors,室内
 indra_(arknights),因陀罗(方舟)
-infection_monitor_(arknights),感染监测器_(arknights)
+infection_monitor_(arknights),感染监测器_(明日方舟)
 infinity,无穷|无限符号
 inflatable_raft,充气筏
 inflatable_toy,充气玩具
@@ -5013,7 +5026,7 @@ kafuu_chino,香风智乃
 kaga_(azur_lane),加贺(碧蓝航线)
 kaga_(battleship)_(azur_lane),加贺(战舰)(碧蓝航线)
 kaga_(everlasting_killing_stone)_(azur_lane),kaga(永恒的杀戮石)(碧蓝航线)
-kaga_(kancolle),加贺_(kancolle)
+kaga_(kancolle),加贺_(舰队收藏)
 kagami_mochi,镜饼
 kagamihara_nadeshiko,各務原なでしこ
 kagamine_len,镜音连
@@ -5071,7 +5084,7 @@ kariya_masaki,狩屋マサキ
 karna_(fate),カルナ(Fate)
 karyl_(princess_connect),凯露
 kasane_teto,重音テト
-kashima_(kancolle),鹿岛(kancolle)
+kashima_(kancolle),鹿岛(舰队收藏)
 kashino_(azur_lane),樫野
 kashino_(hot_springs_relaxation)_(azur_lane),樫野_(牛牛皮肤)
 kashiwazaki_sena,柏崎星奈
@@ -5083,7 +5096,7 @@ kasumi_(doa),霞(DOA)
 kasumigaoka_utaha,霞之丘诗羽
 katagiri_sanae,片桐早苗
 katana,日本刀
-katori_(kancolle),katori_(kancolle)
+katori_(kancolle),katori_(舰队收藏)
 katou_asuka,加藤明日香
 katou_megumi,加藤惠
 katsuki_yuuri,胜生勇利
@@ -5164,7 +5177,7 @@ kirin_(armor),麒麟套
 kirino_ranmaru,霧野蘭丸
 kirisame_marisa,雾雨魔理沙
 kirisame_marisa_(cosplay),cos成雾雨魔理沙
-kirishima_(kancolle),雾岛_(kancolle)
+kirishima_(kancolle),雾岛_(舰队收藏)
 kirito,桐人
 kiriya_aoi,霧矢あおい
 kiryuuin_satsuki,鬼龙院皋月
@@ -5247,7 +5260,7 @@ k-on!,轻音少女
 kondou_taeko,近藤妙子
 kongou_(aoki_hagane_no_arpeggio),コンゴウ(蒼き鋼のアルペジオ)
 kongou_(azur_lane),金刚(碧蓝航线)
-kongou_(kancolle),金刚(kancolle)
+kongou_(kancolle),金刚(舰队收藏)
 konjiki_no_yami,金色之暗
 konngara_(touhou),孔加拉(东方)
 konno_junko,紺野純子
@@ -5779,7 +5792,7 @@ makizushi,海苔卷寿司
 mako_eyes,魔眼
 male,男性
 male_child,小男孩
-male_doctor_(arknights),男医生_(arknights)
+male_doctor_(arknights),男医生_(明日方舟)
 male_focus,男性特写
 male_futanari,男二成
 male_masturbation,男性自慰
@@ -5802,7 +5815,7 @@ mankanshoku_mako,満艦飾マコ
 manly,强壮的
 mano_fico,Fig 手势
 mansion,屋敷
-manticore_(arknights),蝎尾狮_(arknights)
+manticore_(arknights),蝎尾狮_(明日方舟)
 manual_piano,钢琴
 many_colorful_petals_are_flying,五颜六色的花瓣飞舞
 maou_(maoyuu),魔王(まおゆう)
@@ -5932,7 +5945,7 @@ messy,身上有凌乱的污渍
 messy_hair,凌乱发型
 mesugaki,雌小鬼
 metal_collar,金属项圈
-metal_crab_(arknights),金属蟹_(arknights)
+metal_crab_(arknights),金属蟹_(明日方舟)
 meteor_(arknights),流星(方舟)
 meteorite_(arknights),陨石(方舟)
 mic,麦克风
@@ -5957,7 +5970,7 @@ midriff,露腰上衣
 midriff_peek,微微露出腹部
 mifune_miyu,三船美優
 miia_(monster_musume),ミーア(モンスター娘のいる日常)
-mika_(blue_archive),米卡(蔚蓝档案)
+mika_(blue_archive),未花(蔚蓝档案)
 mika_(girls_und_panzer),ミカ(GuP)
 mikasa_(azur_lane),三笠
 mikazuki_munechika,三日月宗近(刀剣乱舞)
@@ -6165,7 +6178,7 @@ mouse_ears,老鼠耳朵
 mouse_girl,鼠娘
 mouse_tail,鼠尾巴
 mousepad_(medium),手绘板
-mousse_(arknights),慕斯_(arknights)
+mousse_(arknights),慕斯_(明日方舟)
 mouth,嘴
 mouth_drool,嘴角画着口水滴形状的缺口
 mouth_hold,用嘴叼着
@@ -6238,11 +6251,11 @@ mumei_(kabaneri),無名(甲鉄城のカバネリ)
 mummy,木乃伊
 mundane_utility,超能力或魔法用于日常使用
 muneate,胸甲
-murakumo_(kancolle),村云_(kancolle)
+murakumo_(kancolle),村云_(舰队收藏)
 murasa_minamitsu,村紗水蜜
 murasaki_shikibu_(fate),紫式部(命运)
 murasaki_shion,紫咲诗音
-musashi_(kancolle),武藏_(kancolle)
+musashi_(kancolle),武藏_(舰队收藏)
 muscle,肌肉
 muscular,肌肉发达
 muscular_female,肌肉发达的女性
@@ -6278,6 +6291,7 @@ nagato_(great_fox's_respite)_(azur_lane),长门(大狐狸的喘息)(碧蓝航线
 nagato_yuki,长门有希
 nagi_no_asukara,亚丝娜_(sao)
 naginata,薙刀
+nagisa_(blue_archive),渚(蔚蓝档案)
 nagisa_kaworu,渚カヲル
 nail,钉子|指甲
 nail_art,美甲
@@ -6432,7 +6446,7 @@ night,夜
 night_sky,夜空
 nightcap,睡帽
 nightgown,睡衣
-nightingale_(arknights),夜莺_(arknights)
+nightingale_(arknights),夜莺_(明日方舟)
 nihonga,日本画
 nihongami,日本发
 niijima_makoto,新島真
@@ -6781,6 +6795,7 @@ orange_footwear,橙色鞋类
 orange_gloves,橙色的手套
 orange_hair,橙色头发
 orange_hairband,橙色发带
+orange_halo,橘色光环
 orange_headwear,橙色头饰
 orange_jacket,橙色夹克
 orange_kimono,橙色和服
@@ -7087,7 +7102,7 @@ Penetration&Insertion,穿透和插入
 penetration_gesture,插入手势/做爱示意
 penguin,企鹅
 penguin_hood,企鹅帽
-penguin_logistics_(arknights),企鹅物流(arknights)
+penguin_logistics_(arknights),企鹅物流(明日方舟)
 penis,阴茎
 penis_awe,亮“枪”
 penis_grab,抓着阴茎
@@ -7210,6 +7225,7 @@ pink_gloves,粉色手套
 pink_hair,粉红色的头发
 pink_hairband,粉色发带
 pink_hakama,粉色袴
+pink_halo,粉色光环
 pink_headwear,粉色头饰
 pink_hoodie,粉色连帽衫
 pink_jacket,粉色夹克
@@ -7491,10 +7507,10 @@ print_skirt,印花短裙
 prinz_eugen_(azur_lane),欧根亲王(碧蓝航线)
 prinz_eugen_(cordial_cornflower)_(azur_lane),欧根亲王(亲切的矢车菊)(碧蓝航线)
 prinz_eugen_(final_lap)_(azur_lane),欧根亲王(最后一圈)(蔚蓝车道)
-prinz_eugen_(kancolle),欧根亲王 (kancolle)
 prinz_eugen_(profusion_of_flowers)_(azur_lane),欧根亲王(繁花似锦)(碧蓝航线)
 prinz_eugen_(symphonic_fate)_(azur_lane),欧根亲王(交响乐命运)(碧蓝航线)
 prinz_eugen_(unfading_smile)_(azur_lane),欧根亲王(不褪色的微笑)
+prinz_eugen_(kancolle),欧根亲王 (舰队收藏)
 prinz_heinrich_(azur_lane),海因里希亲王
 producer_(idolmaster_cinderella_girls_anime),武内P
 product_placement,植入广告
@@ -7502,8 +7518,8 @@ profanity,亵渎
 profile,侧面绘
 projected_inset,类似海报或杂志的插图效果
 projectile_cum,精液射到空中
-projekt_red_(arknights),项目红(arknights)
-projekt_red_(light_breeze)_(arknights),projekt_red(微风)(arknights)
+projekt_red_(arknights),项目红(明日方舟)
+projekt_red_(light_breeze)_(arknights),projekt_red(微风)(明日方舟)
 prolapse,子宫脱出
 prone,趴着
 prone_bone,俯卧后入
@@ -7514,8 +7530,8 @@ prosthesis,假肢
 prosthetic_arm,人工手臂
 prostitution,卖春
 prostration,失意体前屈/Orz
-provence_(arknights),普罗旺斯_(arknights)
-ptilopsis_(arknights),ptilopsis_(arknights)
+provence_(arknights),普罗旺斯_(明日方舟)
+ptilopsis_(arknights),ptilopsis_(明日方舟)
 pubes,阴毛
 pubic_hair,阴毛
 pubic_hair_peek,从衣物里露出一部分阴毛
@@ -7573,6 +7589,7 @@ purple_gloves,紫色手套
 purple_hair,紫发
 purple_hairband,紫色发带
 purple_hakama,紫色的袴
+purple_halo,紫色光环
 purple_headwear,紫色头饰
 purple_jacket,紫色夹克
 purple_kimono,紫色和服
@@ -7633,6 +7650,7 @@ quill,羽毛笔
 quin_tails,有五股辫子
 quiver,箭筒
 rabbit,兔子
+rabbit_ear_hairband,兔子耳朵发箍
 rabbit_ears,兔子耳朵
 rabbit_girl,兔娘
 rabbit_hair_ornament,兔子形头发装饰
@@ -7743,6 +7761,7 @@ red_gloves,红色手套
 red_hair,红发
 red_hairband,红色发带
 red_hakama,绯袴
+red_halo,红色光环
 red_headband,红色头带
 red_headwear,红色头饰
 red_hood,红帽
@@ -7826,7 +7845,7 @@ restricted_palette,色块风格
 retro_arfstyle,复古风格
 retro_artstyle,赛璐璐/复古艺术
 retrofit_(azur_lane),改造(碧蓝航线)
-reunion_logo_(arknights),重聚徽标(arknights)
+reunion_logo_(arknights),重聚徽标(明日方舟)
 reunion_soldier_(arknights),重聚士兵(方舟)
 revealing_clothes,暴露的穿着
 reversal,反转
@@ -8228,7 +8247,7 @@ semen_on_upper_body,上身有精液
 semen_pool,精液潭
 semiramis_(fate),セミラミス(Fate)
 semi-rimless_eyewear,无上框眼镜
-sendai_(kancolle),川内_(kancolle)
+sendai_(kancolle),川内_(舰队收藏)
 sendai_hakurei_no_miko,先代博麗の巫女
 sengoku_nadeko,千石撫子
 senjougahara_hitagi,戦場ヶ原ひたぎ
@@ -8328,8 +8347,8 @@ shidare_hotaru,枝垂ほたる
 shide,纸垂
 shield,盾
 shigure_(azur_lane),时雨
-shigure_(kancolle),时雨_(kancolle)
-shigure_kai_ni_(kancolle),时雨佳妮_(kancolle)
+shigure_(kancolle),时雨_(舰队收藏)
+shigure_kai_ni_(kancolle),时雨佳妮_(舰队收藏)
 shihouin_yoruichi,四楓院夜一
 shiina_mayuri,椎名まゆり
 shijou_takane,四条贵音
@@ -8339,7 +8358,7 @@ shikishi,色纸
 shima_rin,志摩凛
 shimada_arisu,島田愛里寿
 shimakaze_(azur_lane),岛风
-shimakaze_(kancolle),岛风(kancolle)
+shimakaze_(kancolle),岛风(舰队收藏)
 shimakaze_(kancolle)_(cosplay),cosplay成岛风(舰娘)
 shimamura_uzuki,島村卯月
 shimazu_yoshino,島津由乃
@@ -8373,7 +8392,7 @@ shirai_kuroko,白井黑子
 shirakami_fubuki,白上吹雪
 shirakiin_ririchiyo,白鬼院凜々蝶
 shiranui_(azur_lane),不知火(碧蓝航线)
-shiranui_(kancolle),不知火_(kancolle)
+shiranui_(kancolle),不知火_(舰队收藏)
 shiranui_mai,不知火舞
 shirasaka_koume,白坂小梅
 shirase_sakuya,白瀬咲耶
@@ -8513,7 +8532,7 @@ sideless_outfit,侧面没有布料的服饰
 sidelight,侧面光
 sidelocks,披在耳前的发绺
 sideroca_(arknights),sideroca(明日方舟)
-sideroca_(light_breeze)_(arknights),sideroca_(微风)_(arknights)
+sideroca_(light_breeze)_(arknights),sideroca_(微风)_(明日方舟)
 sidesaddle,侧坐在鞍上
 sidetail,侧马尾
 side-tie_bikini,侧边系带比基尼
@@ -8608,7 +8627,7 @@ sitting_sideways,侧身坐着
 sixteenth_note,十六分音符
 size_difference,体格差
 skadi_(arknights),斯卡蒂(明日方舟)
-skadi_(waverider)_(arknights),skadi_(waverider)_(arknights)
+skadi_(waverider)_(arknights),skadi_(waverider)_(明日方舟)
 skateboard,滑板
 skates,溜冰鞋
 skeleton,骨架
@@ -9218,7 +9237,7 @@ surprise_kiss,惊喜之吻|意外之吻
 surprised,惊讶
 surreal,怪诞的|超现实主义
 surtr_(arknights),surtr(明日方舟)
-surtr_(liberte_echec)_(arknights),surtr_(liberte_echec)_(arknights)
+surtr_(liberte_echec)_(arknights),surtr_(liberte_echec)_(明日方舟)
 survey_corps_(emblem),调查兵团徽章
 sushi,寿司
 suspended,悬空捆绑
@@ -9234,7 +9253,7 @@ suzumiya_haruhi,凉宫春日
 suzumiya_haruhi_no_yuuutsu,凉宫春日的忧郁
 suzuran_(arknights),铃兰(方舟)
 suzuya_(azur_lane),铃屋(碧蓝航线)
-suzuya_(kancolle),铃谷 (kancolle)
+suzuya_(kancolle),铃谷 (舰队收藏)
 swapnote_(medium),交换笔记
 swastika,万字符
 sweat,汗水
@@ -9267,7 +9286,7 @@ swimsuit_under_clothes,里面穿着泳衣
 swimsuits,泳装
 swimwear,泳衣
 swing,摆动
-swire_(arknights),太古_(arknights)
+swire_(arknights),太古_(明日方舟)
 swirl,漩涡
 swirl_lollipop,漩涡棒棒糖
 swirly_eyes,晕眼
@@ -9337,8 +9356,8 @@ takane_lui,鹰岭露依
 takao_(azur_lane),高雄(碧蓝航线)
 takao_(beach_rhapsody)_(azur_lane),takao_(海滩狂想曲)_(碧蓝航线)
 takao_(full_throttle_charmer)_(azur_lane),takao(全油门魅力者)(碧蓝航线)
-takao_(kancolle),高雄
 takao_(school_romanza)_(azur_lane),takao_(school_romanza)_(碧蓝航线)
+takao_(kancolle),高雄
 takara_miyuki,高良みゆき
 takarada_rikka,宝多六花
 takasu_ryuuji,高須竜児
@@ -9464,7 +9483,7 @@ tennis_court,网球场
 tennis_racket,网球拍
 tennis_uniform,网球衫
 ten'ou_haruka,天王はるか
-tenryuu_(kancolle),天龙_(kancolle)
+tenryuu_(kancolle),天龙_(舰队收藏)
 tent,帐篷
 tentacle,触手
 tentacle_gagged,触手堵嘴
@@ -10017,7 +10036,7 @@ ushiromiya_battler,右代宮戦人
 ushiromiya_jessica,右代宮朱志香
 ushiromiya_maria,右代宮真里亞
 ushiwakamaru_(fate),牛若丸(命运)
-utage_(arknights),使用_(arknights)
+utage_(arknights),使用_(明日方舟)
 uterus,子宫
 utility_belt,战术皮带
 utility_pole,电线杆
@@ -10165,7 +10184,7 @@ w_legs,割坐
 w_sitting,割坐
 wa_lolita,和风萝莉
 wa_maid,和风女仆
-waai_fu_(arknights),waai_fu_(arknights)
+waai_fu_(arknights),waai_fu_(明日方舟)
 wading,涉水
 wading_pool,充气泳池
 wafuku,和服
@@ -10198,7 +10217,7 @@ wand_vibrator,按摩棒
 war,战争
 wardrobe_error,穿衣方式错了
 wardrobe_malfunction,衣服出了意外(如崩开)
-warfarin_(arknights),华法林_(arknights)
+warfarin_(arknights),华法林_(明日方舟)
 wariza,鸭子坐
 warship,军舰
 warspite_(azur_lane),厌战
@@ -10361,6 +10380,7 @@ white_tiger,白虎(动物)
 white_towel,白色毛巾
 white_vest,白色背心
 white_wings,白色翅膀
+white_wrist_cuffs,白色腕套
 whiteboard_(medium),白板
 white-framed_eyewear,白框眼镜
 whitesmoke,烟白
@@ -10463,6 +10483,7 @@ writing,写作
 writing_on_body,身上有字
 wrong_feet,脚部作画错误
 w-sitting,割坐
+wuthering_waves,鸣潮
 x_hair_ornament,X形发饰
 xenoblade_chronicles_(series),异度之刃编年史
 xenoblade_chronicles_2,异度之刃编年史2
@@ -10497,7 +10518,7 @@ yamanaka_ino,山中いの
 yamanaka_sawako,山中さわ子
 yamashiro_(azur_lane),山城(アズールレーン)
 yamashiro_(summer_offensive?)_(azur_lane),山城(夏季攻势？)(碧蓝航线)
-yamato_(kancolle),大和_(kancolle)
+yamato_(kancolle),大和_(舰队收藏)
 yamato-no-kami_yasusada,大和守安定
 yandere,病娇
 yanfei_(genshin_impact),烟绯(原神)
@@ -10540,6 +10561,7 @@ yellow_fur,黄色毛皮
 yellow_gloves,黄色手套
 yellow_hair,金发
 yellow_hairband,黄色发带
+yellow_halo,黄色光环
 yellow_headwear,黄色头饰
 yellow_jacket,黄色夹克
 yellow_kimono,黄色和服
@@ -10605,7 +10627,7 @@ yuki_(touhou),由纪(东方)
 yuki_miku,雪初音
 yukihana_lamy,雪花菈米
 yukikaze_(azur_lane),雪风
-yukikaze_(kancolle),雪风_(kancolle)
+yukikaze_(kancolle),雪风_(舰队收藏)
 yukine_chris,雪音クリス
 yukinoshita_yukino,雪之下雪乃
 yukishiro_honoka,雪城ほのか
@@ -10621,8 +10643,8 @@ yunomi,茶碗
 yuri,百合
 yuri_(female-female),百合(女-女)
 yuudachi_(azur_lane),夕立(アズールレーン)
-yuudachi_(kancolle),夕立_(kancolle)
 yuudachi_(shogun_of_snowballs)_(azur_lane),yuudachi(雪球将军)(碧蓝航线)
+yuudachi_(kancolle),夕立_(舰队收藏)
 yuuka_(blue_archive),优香(蔚蓝档案)
 yuuka_(track)_(blue_archive),优香(体操服)(蔚蓝档案)
 yuuki_makoto,有里湊
@@ -10638,9 +10660,11 @@ zabuton,褥垫
 zara_(azur_lane),扎拉
 zara_(poolside_coincidence)_(azur_lane),zara_(池畔巧合)_(碧蓝航线)
 zayoi_Sakuya,十六夜咲夜I
+zenless_zone_zero,绝区零
+zenless_zone_zero,胜利女神:妮姬
 zenra,习以为常的全裸
 zero_suit,Zero装束
-zero_two_(darling_in_the_franxx),02国家队
+zero_two_(darling_in_the_franxx),02(国家队)
 zettai_ryouiki,绝对领域
 zettai_ryouki,绝对领域
 zhongli_(genshin_impact),钟离(原神)
@@ -10655,9 +10679,9 @@ zoom_layer,背景是前景的放大版
 zoomlayer,人物立绘缩放(剪影)图层
 zouri,日式草鞋
 z-ring,Z手环
-zuikaku_(azur_lane),瑞鹤
-zuikaku_(kancolle),瑞鹤
+zuikaku_(azur_lane),瑞鹤_(碧蓝航线)
 zuikaku_(the_wind's_true_name)_(azur_lane),zuikaku_(风的真名)_(碧蓝航线)
+zuikaku_(kancolle),瑞鹤_(舰队收藏)
 zzz,zzz(打呼噜)
 🌂,下雨
 🌅,日出
